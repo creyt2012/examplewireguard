@@ -1,4 +1,4 @@
-# wireguard_flutter
+# Wireguard_flutter Example
 
 A new Flutter project.
 
